@@ -29,8 +29,8 @@ class ContentRating extends Component {
      <>
      <div className = 'content-rating'>
       <p>
-      sss React , a JavaScript library developed by Facebook, has revolutionized the landscape of front-end web development with its componentbased architecture. At its core, React enables developers to break down complex user interfaces
-      into reusable, encapsulated components, each managing its own state and behavior.
+      React - a JavaScript library developed by Facebook, has revolutionized the landscape of front-end web development with its componentbased architecture. At its core, React enables developers to break down complex user interfaces
+      into reusable,encapsulated components,each managing its own state and behavior.
      <div className= 'rating-buttons'>
       < button className= "like-button" onClick={this.state.handleLike} >
         Like ({this.state.likes})
